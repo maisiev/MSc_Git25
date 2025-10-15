@@ -1,3 +1,5 @@
 #these are instructions on what to ignore
 
 data/*.csv
+#i want to track this next file
+!data/spaceships.csv
